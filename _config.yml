@@ -2,6 +2,7 @@ name: appolifab
 favicon: null
 layout_spectrum: 0.48445174330845475
 typography_spectrum: 0.7257102488074452
+title: Amazing Website
 cta:
   domain: null
   bucket: null
